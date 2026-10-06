@@ -1,0 +1,19 @@
+# Secrets & Environment Variables
+.env
+.env.*
+config.json
+*.key
+*.pem
+secrets.txt
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Screenshots & Media with sensitive info
+*.png
+*.jpg
+*.jpeg
+*.gif
